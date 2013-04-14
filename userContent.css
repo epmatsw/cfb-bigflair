@@ -1,0 +1,789 @@
+.flair {
+    background-position: 0 0 !important;
+    background-size: 30px 30px !important;
+    width: 30px !important;
+    height: 30px !important;
+}
+.flair-auburn {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2.png?w=80&h=80&transparent=true') !important;
+}
+.flair-uab {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/5.png?w=80&h=80&transparent=true') !important;
+}
+.flair-southalabama {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/6.png?w=80&h=80&transparent=true') !important;
+}
+.flair-arkansas {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/8.png?w=80&h=80&transparent=true') !important;
+}
+.flair-arizonastate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/9.png?w=80&h=80&transparent=true') !important;
+}
+.flair-arizona {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/12.png?w=80&h=80&transparent=true') !important;
+}
+.flair-calpoly {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/13.png?w=80&h=80&transparent=true') !important;
+}
+.flair-sacramentostate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/16.png?w=80&h=80&transparent=true') !important;
+}
+.flair-sandiegostate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/21.png?w=80&h=80&transparent=true') !important;
+}
+.flair-sanjosestate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/23.png?w=80&h=80&transparent=true') !important;
+}
+.flair-stanford {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/24.png?w=80&h=80&transparent=true') !important;
+}
+.flair-california {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/25.png?w=80&h=80&transparent=true') !important;
+}
+.flair-ucla {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/26.png?w=80&h=80&transparent=true') !important;
+}
+.flair-usc {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/30.png?w=80&h=80&transparent=true') !important;
+}
+.flair-coloradostate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/36.png?w=80&h=80&transparent=true') !important;
+}
+.flair-colorado {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/38.png?w=80&h=80&transparent=true') !important;
+}
+.flair-connecticut {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/41.png?w=80&h=80&transparent=true') !important;
+}
+.flair-yale {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/43.png?w=80&h=80&transparent=true') !important;
+}
+.flair-georgetown {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/46.png?w=80&h=80&transparent=true') !important;
+}
+.flair-howard {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/47.png?w=80&h=80&transparent=true') !important;
+}
+.flair-delaware {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/48.png?w=80&h=80&transparent=true') !important;
+}
+.flair-floridaam {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/50.png?w=80&h=80&transparent=true') !important;
+}
+.flair-floridastate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/52.png?w=80&h=80&transparent=true') !important;
+}
+.flair-jacksonvillestate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/55.png?w=80&h=80&transparent=true') !important;
+}
+.flair-florida {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/57.png?w=80&h=80&transparent=true') !important;
+}
+.flair-southflorida {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/58.png?w=80&h=80&transparent=true') !important;
+}
+.flair-georgiatech {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/59.png?w=80&h=80&transparent=true') !important;
+}
+.flair-georgia {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/61.png?w=80&h=80&transparent=true') !important;
+}
+.flair-hawaii {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/62.png?w=80&h=80&transparent=true') !important;
+}
+.flair-iowastate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/66.png?w=80&h=80&transparent=true') !important;
+}
+.flair-boisestate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/68.png?w=80&h=80&transparent=true') !important;
+}
+.flair-idaho {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/70.png?w=80&h=80&transparent=true') !important;
+}
+.flair-northwestern {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/77.png?w=80&h=80&transparent=true') !important;
+}
+.flair-southernillinois {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/79.png?w=80&h=80&transparent=true') !important;
+}
+.flair-indiana {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/84.png?w=80&h=80&transparent=true') !important;
+}
+.flair-notredame {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/87.png?w=80&h=80&transparent=true') !important;
+}
+.flair-murraystate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/93.png?w=80&h=80&transparent=true') !important;
+}
+.flair-kentucky {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/96.png?w=80&h=80&transparent=true') !important;
+}
+.flair-louisville {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/97.png?w=80&h=80&transparent=true') !important;
+}
+.flair-westernkentucky {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/98.png?w=80&h=80&transparent=true') !important;
+}
+.flair-lsu {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/99.png?w=80&h=80&transparent=true') !important;
+}
+.flair-bostoncollege {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/103.png?w=80&h=80&transparent=true') !important;
+}
+.flair-holycross {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/107.png?w=80&h=80&transparent=true') !important;
+}
+.flair-harvard {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/108.png?w=80&h=80&transparent=true') !important;
+}
+.flair-northeastern {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/111.png?w=80&h=80&transparent=true') !important;
+}
+.flair-massachusetts {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/113.png?w=80&h=80&transparent=true') !important;
+}
+.flair-towson {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/119.png?w=80&h=80&transparent=true') !important;
+}
+.flair-maryland {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/120.png?w=80&h=80&transparent=true') !important;
+}
+.flair-michiganstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/127.png?w=80&h=80&transparent=true') !important;
+}
+.flair-michigan {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/130.png?w=80&h=80&transparent=true') !important;
+}
+.flair-minnesota {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/135.png?w=80&h=80&transparent=true') !important;
+}
+.flair-missouri {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/142.png?w=80&h=80&transparent=true') !important;
+}
+.flair-olemiss {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/145.png?w=80&h=80&transparent=true') !important;
+}
+.flair-montanastate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/147.png?w=80&h=80&transparent=true') !important;
+}
+.flair-montana {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/149.png?w=80&h=80&transparent=true') !important;
+}
+.flair-duke {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/150.png?w=80&h=80&transparent=true') !important;
+}
+.flair-eastcarolina {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/151.png?w=80&h=80&transparent=true') !important;
+}
+.flair-northcarolinastate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/152.png?w=80&h=80&transparent=true') !important;
+}
+.flair-northcarolina {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/153.png?w=80&h=80&transparent=true') !important;
+}
+.flair-wakeforest {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/154.png?w=80&h=80&transparent=true') !important;
+}
+.flair-northdakota {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/155.png?w=80&h=80&transparent=true') !important;
+}
+.flair-nebraska {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/158.png?w=80&h=80&transparent=true') !important;
+}
+.flair-dartmouth {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/159.png?w=80&h=80&transparent=true') !important;
+}
+.flair-newhampshire {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/160.png?w=80&h=80&transparent=true') !important;
+}
+.flair-princeton {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/163.png?w=80&h=80&transparent=true') !important;
+}
+.flair-rutgers {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/164.png?w=80&h=80&transparent=true') !important;
+}
+.flair-newmexicostate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/166.png?w=80&h=80&transparent=true') !important;
+}
+.flair-newmexico {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/167.png?w=80&h=80&transparent=true') !important;
+}
+.flair-columbia {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/171.png?w=80&h=80&transparent=true') !important;
+}
+.flair-cornell {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/172.png?w=80&h=80&transparent=true') !important;
+}
+.flair-syracuse {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/183.png?w=80&h=80&transparent=true') !important;
+}
+.flair-bowlinggreen {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/189.png?w=80&h=80&transparent=true') !important;
+}
+.flair-miamioh {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/193.png?w=80&h=80&transparent=true') !important;
+}
+.flair-ohiostate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/194.png?w=80&h=80&transparent=true') !important;
+}
+.flair-ohio {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/195.png?w=80&h=80&transparent=true') !important;
+}
+.flair-oklahomastate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/197.png?w=80&h=80&transparent=true') !important;
+}
+.flair-oklahoma {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/201.png?w=80&h=80&transparent=true') !important;
+}
+.flair-tulsa {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/202.png?w=80&h=80&transparent=true') !important;
+}
+.flair-oregonstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/204.png?w=80&h=80&transparent=true') !important;
+}
+.flair-pennstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/213.png?w=80&h=80&transparent=true') !important;
+}
+.flair-temple {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/218.png?w=80&h=80&transparent=true') !important;
+}
+.flair-pennsylvania {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/219.png?w=80&h=80&transparent=true') !important;
+}
+.flair-pittsburgh {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/221.png?w=80&h=80&transparent=true') !important;
+}
+.flair-villanova {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/222.png?w=80&h=80&transparent=true') !important;
+}
+.flair-brown {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/225.png?w=80&h=80&transparent=true') !important;
+}
+.flair-rhodeisland {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/227.png?w=80&h=80&transparent=true') !important;
+}
+.flair-clemson {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/228.png?w=80&h=80&transparent=true') !important;
+}
+.flair-furman {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/231.png?w=80&h=80&transparent=true') !important;
+}
+.flair-southdakota {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/233.png?w=80&h=80&transparent=true') !important;
+}
+.flair-memphis {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/235.png?w=80&h=80&transparent=true') !important;
+}
+.flair-chattanooga {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/236.png?w=80&h=80&transparent=true') !important;
+}
+.flair-vanderbilt {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/238.png?w=80&h=80&transparent=true') !important;
+}
+.flair-baylor {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/239.png?w=80&h=80&transparent=true') !important;
+}
+.flair-rice {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/242.png?w=80&h=80&transparent=true') !important;
+}
+.flair-texasam {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/245.png?w=80&h=80&transparent=true') !important;
+}
+.flair-houston {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/248.png?w=80&h=80&transparent=true') !important;
+}
+.flair-northtexas {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/249.png?w=80&h=80&transparent=true') !important;
+}
+.flair-texas {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/251.png?w=80&h=80&transparent=true') !important;
+}
+.flair-byu {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/252.png?w=80&h=80&transparent=true') !important;
+}
+.flair-southernutah {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/253.png?w=80&h=80&transparent=true') !important;
+}
+.flair-utah {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/254.png?w=80&h=80&transparent=true') !important;
+}
+.flair-jamesmadison {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/256.png?w=80&h=80&transparent=true') !important;
+}
+.flair-richmond {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/257.png?w=80&h=80&transparent=true') !important;
+}
+.flair-virginia {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/258.png?w=80&h=80&transparent=true') !important;
+}
+.flair-virginiatech {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/259.png?w=80&h=80&transparent=true') !important;
+}
+.flair-washington {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/264.png?w=80&h=80&transparent=true') !important;
+}
+.flair-washingtonstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/265.png?w=80&h=80&transparent=true') !important;
+}
+.flair-wisconsin {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/275.png?w=80&h=80&transparent=true') !important;
+}
+.flair-marshall {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/276.png?w=80&h=80&transparent=true') !important;
+}
+.flair-westvirginia {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/277.png?w=80&h=80&transparent=true') !important;
+}
+.flair-fresnostate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/278.png?w=80&h=80&transparent=true') !important;
+}
+.flair-indianastate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/282.png?w=80&h=80&transparent=true') !important;
+}
+.flair-georgiasouthern {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/290.png?w=80&h=80&transparent=true') !important;
+}
+.flair-jacksonville {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/294.png?w=80&h=80&transparent=true') !important;
+}
+.flair-olddominion {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/295.png?w=80&h=80&transparent=true') !important;
+}
+.flair-sandiego {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/301.png?w=80&h=80&transparent=true') !important;
+}
+.flair-ucdavis {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/302.png?w=80&h=80&transparent=true') !important;
+}
+.flair-idahostate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/304.png?w=80&h=80&transparent=true') !important;
+}
+.flair-louisianalafayette {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/309.png?w=80&h=80&transparent=true') !important;
+}
+.flair-maine {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/311.png?w=80&h=80&transparent=true') !important;
+}
+.flair-iona {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/314.png?w=80&h=80&transparent=true') !important;
+}
+.flair-lafayette {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/322.png?w=80&h=80&transparent=true') !important;
+}
+.flair-coastalcarolina {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/324.png?w=80&h=80&transparent=true') !important;
+}
+.flair-texasstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/326.png?w=80&h=80&transparent=true') !important;
+}
+.flair-utahstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/328.png?w=80&h=80&transparent=true') !important;
+}
+.flair-easternwashington {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/331.png?w=80&h=80&transparent=true') !important;
+}
+.flair-alabama {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/333.png?w=80&h=80&transparent=true') !important;
+}
+.flair-mississippistate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/344.png?w=80&h=80&transparent=true') !important;
+}
+.flair-army {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/349.png?w=80&h=80&transparent=true') !important;
+}
+.flair-illinois {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/356.png?w=80&h=80&transparent=true') !important;
+}
+.flair-albany {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/399.png?w=80&h=80&transparent=true') !important;
+}
+.flair-airforce {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2005.png?w=80&h=80&transparent=true') !important;
+}
+.flair-akron {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2006.png?w=80&h=80&transparent=true') !important;
+}
+.flair-alabamaam {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2010.png?w=80&h=80&transparent=true') !important;
+}
+.flair-alabamastate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2011.png?w=80&h=80&transparent=true') !important;
+}
+.flair-alcornstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2016.png?w=80&h=80&transparent=true') !important;
+}
+.flair-appalachianstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2026.png?w=80&h=80&transparent=true') !important;
+}
+.flair-arkansaspinebluff {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2029.png?w=80&h=80&transparent=true') !important;
+}
+.flair-arkansasstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2032.png?w=80&h=80&transparent=true') !important;
+}
+.flair-austinpeay {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2046.png?w=80&h=80&transparent=true') !important;
+}
+.flair-ballstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2050.png?w=80&h=80&transparent=true') !important;
+}
+.flair-bethunecookman {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2065.png?w=80&h=80&transparent=true') !important;
+}
+.flair-bucknell {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2083.png?w=80&h=80&transparent=true') !important;
+}
+.flair-buffalo {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2084.png?w=80&h=80&transparent=true') !important;
+}
+.flair-butler {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2086.png?w=80&h=80&transparent=true') !important;
+}
+.flair-campbell {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2097.png?w=80&h=80&transparent=true') !important;
+}
+.flair-centralarkansas {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2110.png?w=80&h=80&transparent=true') !important;
+}
+.flair-centralconnecticutstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2115.png?w=80&h=80&transparent=true') !important;
+}
+.flair-ucf {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2116.png?w=80&h=80&transparent=true') !important;
+}
+.flair-centralmichigan {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2117.png?w=80&h=80&transparent=true') !important;
+}
+.flair-charlestonsouthern {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2127.png?w=80&h=80&transparent=true') !important;
+}
+.flair-cincinnati {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2132.png?w=80&h=80&transparent=true') !important;
+}
+.flair-colgate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2142.png?w=80&h=80&transparent=true') !important;
+}
+.flair-davidson {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2166.png?w=80&h=80&transparent=true') !important;
+}
+.flair-dayton {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2168.png?w=80&h=80&transparent=true') !important;
+}
+.flair-delawarestate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2169.png?w=80&h=80&transparent=true') !important;
+}
+.flair-drake {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2181.png?w=80&h=80&transparent=true') !important;
+}
+.flair-duquesne {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2184.png?w=80&h=80&transparent=true') !important;
+}
+.flair-easternillinois {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2197.png?w=80&h=80&transparent=true') !important;
+}
+.flair-easternkentucky {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2198.png?w=80&h=80&transparent=true') !important;
+}
+.flair-easternmichigan {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2199.png?w=80&h=80&transparent=true') !important;
+}
+.flair-elon {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2210.png?w=80&h=80&transparent=true') !important;
+}
+.flair-floridaatlantic {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2226.png?w=80&h=80&transparent=true') !important;
+}
+.flair-floridainternational {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2229.png?w=80&h=80&transparent=true') !important;
+}
+.flair-fordham {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2230.png?w=80&h=80&transparent=true') !important;
+}
+.flair-gardnerwebb {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2241.png?w=80&h=80&transparent=true') !important;
+}
+.flair-georgiastate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2247.png?w=80&h=80&transparent=true') !important;
+}
+.flair-hampton {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2261.png?w=80&h=80&transparent=true') !important;
+}
+.flair-hofstra {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2275.png?w=80&h=80&transparent=true') !important;
+}
+.flair-illinoisstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2287.png?w=80&h=80&transparent=true') !important;
+}
+.flair-iowa {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2294.png?w=80&h=80&transparent=true') !important;
+}
+.flair-jacksonstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2296.png?w=80&h=80&transparent=true') !important;
+}
+.flair-kansas {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2305.png?w=80&h=80&transparent=true') !important;
+}
+.flair-kansasstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2306.png?w=80&h=80&transparent=true') !important;
+}
+.flair-kentstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2309.png?w=80&h=80&transparent=true') !important;
+}
+.flair-lamar {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2320.png?w=80&h=80&transparent=true') !important;
+}
+.flair-lasalle {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2325.png?w=80&h=80&transparent=true') !important;
+}
+.flair-lehigh {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2329.png?w=80&h=80&transparent=true') !important;
+}
+.flair-liberty {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2335.png?w=80&h=80&transparent=true') !important;
+}
+.flair-louisianatech {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2348.png?w=80&h=80&transparent=true') !important;
+}
+.flair-marist {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2368.png?w=80&h=80&transparent=true') !important;
+}
+.flair-mcneesestate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2377.png?w=80&h=80&transparent=true') !important;
+}
+.flair-miamifl {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2390.png?w=80&h=80&transparent=true') !important;
+}
+.flair-middletennessee {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2393.png?w=80&h=80&transparent=true') !important;
+}
+.flair-mississippivalleystate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2400.png?w=80&h=80&transparent=true') !important;
+}
+.flair-monmouth {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2405.png?w=80&h=80&transparent=true') !important;
+}
+.flair-moreheadstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2413.png?w=80&h=80&transparent=true') !important;
+}
+.flair-morganstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2415.png?w=80&h=80&transparent=true') !important;
+}
+.flair-navy {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2426.png?w=80&h=80&transparent=true') !important;
+}
+.flair-northcarolinacentral {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2428.png?w=80&h=80&transparent=true') !important;
+}
+.flair-louisianamonroe {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2433.png?w=80&h=80&transparent=true') !important;
+}
+.flair-unlv {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2439.png?w=80&h=80&transparent=true') !important;
+}
+.flair-nevada {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2440.png?w=80&h=80&transparent=true') !important;
+}
+.flair-nichollsstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2447.png?w=80&h=80&transparent=true') !important;
+}
+.flair-northcarolinaat {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2448.png?w=80&h=80&transparent=true') !important;
+}
+.flair-northdakotastate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2449.png?w=80&h=80&transparent=true') !important;
+}
+.flair-norfolkstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2450.png?w=80&h=80&transparent=true') !important;
+}
+.flair-northerncolorado {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2458.png?w=80&h=80&transparent=true') !important;
+}
+.flair-northernillinois {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2459.png?w=80&h=80&transparent=true') !important;
+}
+.flair-northerniowa {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2460.png?w=80&h=80&transparent=true') !important;
+}
+.flair-northernarizona {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2464.png?w=80&h=80&transparent=true') !important;
+}
+.flair-northwesternstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2466.png?w=80&h=80&transparent=true') !important;
+}
+.flair-oregon {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2483.png?w=80&h=80&transparent=true') !important;
+}
+.flair-portlandstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2502.png?w=80&h=80&transparent=true') !important;
+}
+.flair-prairieviewam {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2504.png?w=80&h=80&transparent=true') !important;
+}
+.flair-presbyterian {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2506.png?w=80&h=80&transparent=true') !important;
+}
+.flair-purdue {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2509.png?w=80&h=80&transparent=true') !important;
+}
+.flair-robertmorris {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2523.png?w=80&h=80&transparent=true') !important;
+}
+.flair-sacredheart {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2529.png?w=80&h=80&transparent=true') !important;
+}
+.flair-samhoustonstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2534.png?w=80&h=80&transparent=true') !important;
+}
+.flair-samford {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2535.png?w=80&h=80&transparent=true') !important;
+}
+.flair-savannahstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2542.png?w=80&h=80&transparent=true') !important;
+}
+.flair-southeasternlouisiana {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2545.png?w=80&h=80&transparent=true') !important;
+}
+.flair-southeastmissouristate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2546.png?w=80&h=80&transparent=true') !important;
+}
+.flair-southernmethodist {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2567.png?w=80&h=80&transparent=true') !important;
+}
+.flair-southcarolinastate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2569.png?w=80&h=80&transparent=true') !important;
+}
+.flair-southdakotastate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2571.png?w=80&h=80&transparent=true') !important;
+}
+.flair-southernmiss {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2572.png?w=80&h=80&transparent=true') !important;
+}
+.flair-southcarolina {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2579.png?w=80&h=80&transparent=true') !important;
+}
+.flair-southernuniversity {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2582.png?w=80&h=80&transparent=true') !important;
+}
+.flair-stfrancispa {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2598.png?w=80&h=80&transparent=true') !important;
+}
+.flair-stephenfaustin {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2617.png?w=80&h=80&transparent=true') !important;
+}
+.flair-stonybrook {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2619.png?w=80&h=80&transparent=true') !important;
+}
+.flair-missouristate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2623.png?w=80&h=80&transparent=true') !important;
+}
+.flair-tcu {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2628.png?w=80&h=80&transparent=true') !important;
+}
+.flair-tennesseemartin {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2630.png?w=80&h=80&transparent=true') !important;
+}
+.flair-tennessee {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2633.png?w=80&h=80&transparent=true') !important;
+}
+.flair-tennesseestate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2634.png?w=80&h=80&transparent=true') !important;
+}
+.flair-tennesseetech {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2635.png?w=80&h=80&transparent=true') !important;
+}
+.flair-utsa {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2636.png?w=80&h=80&transparent=true') !important;
+}
+.flair-utep {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2638.png?w=80&h=80&transparent=true') !important;
+}
+.flair-texassouthern {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2640.png?w=80&h=80&transparent=true') !important;
+}
+.flair-texastech {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2641.png?w=80&h=80&transparent=true') !important;
+}
+.flair-citadel {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2643.png?w=80&h=80&transparent=true') !important;
+}
+.flair-toledo {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2649.png?w=80&h=80&transparent=true') !important;
+}
+.flair-troy {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2653.png?w=80&h=80&transparent=true') !important;
+}
+.flair-tulane {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2655.png?w=80&h=80&transparent=true') !important;
+}
+.flair-valparaiso {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2674.png?w=80&h=80&transparent=true') !important;
+}
+.flair-virginiamilitaryinstitute {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2678.png?w=80&h=80&transparent=true') !important;
+}
+.flair-wagner {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2681.png?w=80&h=80&transparent=true') !important;
+}
+.flair-weberstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2692.png?w=80&h=80&transparent=true') !important;
+}
+.flair-westernillinois {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2710.png?w=80&h=80&transparent=true') !important;
+}
+.flair-westernmichigan {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2711.png?w=80&h=80&transparent=true') !important;
+}
+.flair-westerncarolina {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2717.png?w=80&h=80&transparent=true') !important;
+}
+.flair-williammary {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2729.png?w=80&h=80&transparent=true') !important;
+}
+.flair-wofford {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2747.png?w=80&h=80&transparent=true') !important;
+}
+.flair-wyoming {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2751.png?w=80&h=80&transparent=true') !important;
+}
+.flair-youngstownstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2754.png?w=80&h=80&transparent=true') !important;
+}
+.flair-gramblingstate {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2755.png?w=80&h=80&transparent=true') !important;
+}
+.flair-bryantuniversity {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2803.png?w=80&h=80&transparent=true') !important;
+}
+.flair-goldenwestcollege {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/3113.png?w=80&h=80&transparent=true') !important;
+}
+.flair-south {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/3144.png?w=80&h=80&transparent=true') !important;
+}
+.flair-north {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/3145.png?w=80&h=80&transparent=true') !important;
+}
+.flair-east {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/3146.png?w=80&h=80&transparent=true') !important;
+}
+.flair-west {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/3147.png?w=80&h=80&transparent=true') !important;
+}
+.flair-american {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/3193.png?w=80&h=80&transparent=true') !important;
+}
+.flair-national {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/3194.png?w=80&h=80&transparent=true') !important;
+}
+.flair-northflorida {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/3197.png?w=80&h=80&transparent=true') !important;
+}
+.flair-southflorida {
+background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/3198.png?w=80&h=80&transparent=true') !important;
+}
+
+.flair:hover {
+    background-image: none !important;
+    width: auto !important;
+    height: auto !important;
+}
