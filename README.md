@@ -25,3 +25,8 @@ I haven't actually tested these, but they seem like they should work.
 8. Paste the text you copied from userContent.css and save.
 9. Close Chrome.
 10. Open Chrome. You should now see the new flair.
+
+Installation for Other Browsers
+-------------------------------
+Click [here](https://www.mozilla.org/en-US/firefox/new/) or
+[here](https://www.google.com/intl/en/chrome/browser/), then try again.
