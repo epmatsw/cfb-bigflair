@@ -1811,3 +1811,8 @@ background-size: 30px 30px !important;
 width: 30px !important;
 height: 30px !important;
 }
+.flair:hover {
+  background-image: none;
+  height: auto;
+  width: auto;
+}
