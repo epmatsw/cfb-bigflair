@@ -8,7 +8,7 @@ Installation for Firefox
 1. Save the userContent.css file to the chrome folder in your Firefox
 profile directory. Click
 [here](https://support.mozilla.org/en-US/kb/profiles-where-firefox-stores-user-data#w_how-do-i-find-my-profile)
-to find where the Firefox profile is for your OS.a
+to find where the Firefox profile is for your OS.
 2. Close Firefox. Reopen Firefox. You should see the new flair.
 
 Installation for Chrome
