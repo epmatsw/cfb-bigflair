@@ -1,6 +1,12 @@
 cfb-bigflair
 ============
 
+**10/13 Update** It looks like r/cfb slightly changed the way they've
+ structured their CSS. I just pushed up a new version that should fix
+the issues people have been seeing. It also has the benefit of being
+about 44% the size of the previous version and should be significantly
+speedier!
+
 A stylesheet for larger flair on r/cfb
 
 Installation for Firefox
