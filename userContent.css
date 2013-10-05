@@ -1,8 +1,9 @@
 @-moz-document url-prefix(http://www.reddit.com/r/cfb) {
   .flair:before {
-    display: none !important;}
+    display: none !important;
+  }
   .link .flair {
-    //color: transparent !important;
+    color: transparent !important;
     background-repeat: no-repeat !important;
     background-position: 0 0 !important;
     background-size: 30px 30px !important;
@@ -32,7 +33,7 @@
   }
   .flair-sacramentostate {
     background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/16.png?w=80&h=80&transparent=true') !important;
-  }
+  :
   .flair-sandiegostate {
     background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/21.png?w=80&h=80&transparent=true') !important;
   }
@@ -784,10 +785,6 @@
     background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/3197.png?w=80&h=80&transparent=true') !important;
   }
   .flair-southflorida {
-    background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/3198.png?w=80&h=80&transparent=true') !important;}
-  .flair:hover {
-    background-image: none;
-    height: auto;
-    width: auto;
+    background-image: url('http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/3198.png?w=80&h=80&transparent=true') !important;
   }
 }
